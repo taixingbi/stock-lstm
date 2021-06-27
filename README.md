@@ -14,12 +14,8 @@ git reset -- my_env
 git commit -m "commit"
 git push origin
 ```
-### key secret
-https://www.binance.com/en/support/faq/360002502072
 
 ### reference
 ```
-https://www.youtube.com/watch?v=FmfTK5dFOZk
-https://github.com/hackingthemarkets/binance-tutorials/blob/master/coinview/get_data.py
-
+https://www.kaggle.com/faressayah/stock-market-analysis-prediction-using-lstm/comments#1236924
 ```
